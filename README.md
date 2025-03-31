@@ -39,7 +39,7 @@ Download the latest release from the [Releases Page](https://github.com/provrb/f
 Contributions are welcome! Feel free to open issues or submit pull requests to improve functionality or fix bugs.
 
 ## License
-This project is licensed under the GPL 2.0 License. See the [LICENSE](LICENSE.txt) file for details.
+This project is licensed under the Apache 2.0 License. See the [LICENSE](LICENSE.txt) file for details.
 
 ## Contact
 For inquiries or feature requests, open an issue on GitHub.
